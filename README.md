@@ -1,0 +1,2 @@
+# Icon Trail
+<p>I created a fun and interactive animation project using JavaScript, HTML, and CSS. The animation reacts to mouse movements by capturing the x and y coordinates from the JavaScript event object. I combined these coordinates with CSS animations to create an engaging and visually appealing effect. It’s a simple yet creative way to make the webpage more dynamic and interactive.</p>
